@@ -749,7 +749,7 @@ nav {
 .special-offer__container {
   text-align: center;
   padding: 40px 20px;
-  background-image: url('/assets/Discount.png'); /* Replace with your image path */
+  background-image: url('assets/Discount.png'); /* Replace with your image path */
   background-size: cover; /* Cover the entire container */
   background-position: center; /* Center the background image */
   color: #ffffff; /* White text for better contrast */
